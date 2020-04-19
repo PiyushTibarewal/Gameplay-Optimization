@@ -1,0 +1,1 @@
+We designed an optimal game play strategy for general strategy games using Racket language and used PSO (Particle Swarm Optimization) algorithm to evaluate optimal use of resources in efficient manner in games like League of Legends and Age of Empire. The input is taken using a GUI. 
